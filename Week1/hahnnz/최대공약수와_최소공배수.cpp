@@ -25,7 +25,7 @@ vector<int> gcdlcm(int a,int b)
     answer.push_back(gcd);
     answer.push_back(lcm);
 
-	return answer;
+    return answer;
 }
 
 int main()
