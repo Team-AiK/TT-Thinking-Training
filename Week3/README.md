@@ -2,7 +2,7 @@
 
 [Programmers](https://programmers.co.kr/learn/challenges?level=2) - `Level 2 : EASY`
 
-Week2 | 이번주의 문제
+Week3 | 이번주의 문제
 :---: | :--------:
 **1** | [최솟값만들기](https://programmers.co.kr/learn/challenge_codes/179)
 **2** | [콜라츠추측](https://programmers.co.kr/learn/challenge_codes/150)
