@@ -7,7 +7,7 @@ Week1 | 이번주의 문제
 **1** | [최대공약수와최소공배수](https://programmers.co.kr/learn/challenge_codes/149)
 **2** | [피보나치수](https://programmers.co.kr/learn/challenge_codes/147)
 **3** | [같은숫자는싫어](https://programmers.co.kr/learn/challenge_codes/86)
-**4** | [자릿수더라기](https://programmers.co.kr/learn/challenge_codes/116)
+**4** | [자릿수더하기](https://programmers.co.kr/learn/challenge_codes/116)
 **5** | [문자열내맘대로정하기](https://programmers.co.kr/learn/challenge_codes/95)
 **6** | [문자열다루기기본](https://programmers.co.kr/learn/challenge_codes/99)
 **7** | [핸드폰번호가리기](https://programmers.co.kr/learn/challenge_codes/132)
