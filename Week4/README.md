@@ -9,4 +9,6 @@ Week4 | 이번주의 문제
 **2** | [야근지수](https://programmers.co.kr/learn/challenge_codes/145)
 **3** | 2018 Summer Coding 1차 - 테스트 문제 1
 **4** | 2018 Summer Coding 1차 - 테스트 문제 2
-**?** | 2018 Summer Coding 1차 - 문제 ? **[미정]**
+**5** | 2018 Summer Coding 1차 - 문제 1
+**6** | 2018 Summer Coding 1차 - 문제 2
+**7** | 2018 Summer Coding 1차 - 문제 3
