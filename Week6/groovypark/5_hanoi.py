@@ -14,18 +14,17 @@
 # 원판을 기둥3에서 기둥1로 이동했다면 [3, 1]로 표기합니다.
 # 이러한 이동 순서를 담는 배열을 리턴하면 됩니다.
 
-answer = []
 def hanoi(n):
-    move(n,1,2,3)
+    answer = []
+    def def_move(n, _from, middle, to):
+        if n == 1:
+            answer.append([_from,to])
+        else:
+            def_move(n-1,_from,to,middle)
+            answer.append([_from,to])
+            def_move(n-1,middle,_from,to)
+    def_move(n,1,2,3)
     return answer  # 2차원 배열을 반환해 주어야 합니다.
 
-def move(n, _from, middle, to):
-    if n == 1:
-        answer.append([_from,to])
-    else:
-        move(n-1,_from,to,middle)
-        answer.append([_from,to])
-        move(n-1,middle,_from,to)
-        
 # 아래는 테스트로 출력해 보기 위한 코드입니다.
 print(hanoi(2))
