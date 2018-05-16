@@ -17,7 +17,6 @@ def chooseCity(n,city):
     # 총인구수를 구한다
     for arr in city:
         total += arr[1]
-    
     # 총인구수/2보다 작을 때, 인구수를 계속 더해줌
     for i, arr in enumerate(city):
         if population < total/2:
@@ -25,6 +24,6 @@ def chooseCity(n,city):
         # 마지막까지 더했던 위치가 정답
         else:
             return city[i-1][0]
-
+            
 #아래 코드는 출력을 위한 테스트 코드입니다.
 print(chooseCity(3,[[1,5],[2,2],[3,3]]))
