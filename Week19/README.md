@@ -6,5 +6,5 @@
 :---: | :--------:
 **1** | [Level.1 - p, y의 개수](https://programmers.co.kr/skill_checks/14284?challenge_id=286)
 **2** | [Level.1 - 요일맞추기](https://programmers.co.kr/skill_checks/14284?challenge_id=978)
-**3** | [Level.2 - 건전지 사용량](https://programmers.co.kr/skill_checks/14531?challenge_id=245)
-**4** | [Level.2 - 구명보트 개수](https://programmers.co.kr/skill_checks/14531?challenge_id=2540)
+**3** | [Level.2 - JadenCase](https://programmers.co.kr/skill_checks/15220)
+**4** | [Level.2 - 조이스틱](https://programmers.co.kr/skill_checks/15220?challenge_id=2578)
